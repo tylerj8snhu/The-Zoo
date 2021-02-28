@@ -1,0 +1,2 @@
+111111name           Mammal         Bat            0 1
+222222name           Mammal         Whale          0 1
